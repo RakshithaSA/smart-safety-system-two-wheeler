@@ -30,14 +30,6 @@ sends real-time alerts via Telegram API.
 
 ---
 
-## 🔌 Circuit Diagram
-(Upload your circuit photo here)
-
-## 📸 Project Photos
-(Upload hardware photos here)
-
----
-
 ## 💡 How It Works
 1. MPU6050 reads accelerometer data via I2C
 2. Firmware checks threshold for crash/tilt
